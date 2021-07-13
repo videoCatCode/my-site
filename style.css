@@ -192,6 +192,10 @@ body {
   background-position: left;
 }
 
+.page-footer a:hover {
+  text-decoration: underline;
+}
+
 .footer-email {
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
