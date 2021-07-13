@@ -36,6 +36,15 @@ body {
   background-position: left;
 }
 
+.page-header a:hover {
+  text-decoration: underline;
+}
+
+.page-header a:nth-child(2) {
+  padding: 0 4rem 0 0;
+  border-right: 1px solid #288be6;
+}
+
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
