@@ -40,9 +40,9 @@ body {
   text-decoration: underline;
 }
 
-.page-header a:nth-child(2) {
-  padding: 0 4rem 0 0;
-  border-right: 1px solid #288be6;
+.page-header a:nth-child(3) {
+  padding: 0 0 0 3.5rem;
+  border-left: 1px solid #288be6;
 }
 
 .header-email {
