@@ -41,7 +41,7 @@ body {
 }
 
 .page-header a:nth-child(3) {
-  padding: 0 0 0 3.5rem;
+  padding: 0 0 0 4rem;
   border-left: 1px solid #288be6;
 }
 
@@ -190,10 +190,6 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
-}
-
-.page-footer a:hover {
-  text-decoration: underline;
 }
 
 .footer-email {
